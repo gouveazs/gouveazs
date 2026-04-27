@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Olá, me chamo João Vitor e esse é meu GitHub. <hr>
+
+# 💫 Sobre Mim:
 Atualmente buscando estágio na área de programação<br>Cursando Sistemas para Internet na FATEC Mococa<br>
 
 
